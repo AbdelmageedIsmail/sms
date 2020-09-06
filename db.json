@@ -8,8 +8,6 @@
   "profile": {
     "name": "typicode"
   },
-  
-  
   "sms": [
     {
       "id": 1,
@@ -21,8 +19,5 @@
       "targetNumber":"249999089231",
       "message": "This is the second message",
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
