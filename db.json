@@ -18,8 +18,8 @@
     },
     {
       "id": 2,
-      "message": "This is the second message",
       "targetNumber":"249999089231",
+      "message": "This is the second message",
     }
   ],
   "profile": {
