@@ -1,4 +1,20 @@
 {
+  "success1":{
+         "code":"ok",
+         "message":"success1"
+   },
+    "success2":{
+         "code":200,
+         "message":"success2"
+   },
+   "fail1":{
+         "code":"503",
+         "message":"fail2"
+   },
+   "fail2":{
+         "code":503,
+         "message":"fail2"
+   },
   "posts": [
     {
       "id": 1,
