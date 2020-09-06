@@ -18,11 +18,13 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "hello",
+      "code": "ok"
     },
     {
       "id": 2,
-      "title": "Test"
+      "title": "Test",
+      "code": "ok"
     }
   ]
 }
