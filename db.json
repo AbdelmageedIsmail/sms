@@ -13,11 +13,13 @@
   "sms": [
     {
       "id": 1,
-      "title": "This is the first message"
+      "targetNumber":"249912312589",
+      "message": "This is the first message"
     },
     {
       "id": 2,
-      "title": "This is the second message"
+      "message": "This is the second message",
+      "targetNumber":"249999089231",
     }
   ],
   "profile": {
