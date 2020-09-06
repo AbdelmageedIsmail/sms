@@ -9,15 +9,7 @@
     "name": "typicode"
   },
   "sms": [
-    {
-      "id": 1,
-      "targetNumber":"249912312589",
-      "message": "This is the first message"
-    },
-    {
-      "id": 2,
-      "targetNumber":"249999089231",
-      "message": "This is the second message",
-    }
+    {"id": 1, "number":"249912312589", "message": "This is the first message"},
+    {"id": 2, "number":"249912312589", "message": "This is the first message"},
   ]
 }
